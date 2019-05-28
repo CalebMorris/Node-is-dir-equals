@@ -1,0 +1,8 @@
+{
+  "name": "is-dir-equals",
+  "version": "0.1.0",
+  "description": "Are the given dirs and their contents equal?",
+  "main": "index.js",
+  "author": "Caleb Morris <caleb.morris.g@gmail.com>",
+  "license": "MIT"
+}
