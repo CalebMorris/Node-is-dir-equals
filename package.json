@@ -1,6 +1,6 @@
 {
   "name": "is-dir-equals",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Are the given dirs and their contents equal?",
   "main": "src/is-dir-equals.js",
   "scripts": {
