@@ -1,2 +1,7 @@
+## Node packages
 node_modules/
 .node_modules/
+
+## Istanbul output
+coverage/
+.nyc_output

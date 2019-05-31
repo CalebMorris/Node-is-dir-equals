@@ -2,7 +2,15 @@
   "name": "is-dir-equals",
   "version": "0.1.0",
   "description": "Are the given dirs and their contents equal?",
-  "main": "index.js",
+  "main": "src/is-dir-equals.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
   "author": "Caleb Morris <caleb.morris.g@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1"
+  }
 }
