@@ -7,6 +7,13 @@
     "test": "nyc --reporter=html --reporter=text mocha"
   },
   "author": "Caleb Morris <caleb.morris.g@gmail.com>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/CalebMorris/Node-is-dir-equals"
+  },
+  "bugs": {
+    "url": "https://github.com/CalebMorris/Node-is-dir-equals/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
